@@ -4,6 +4,5 @@ public class HelloWorld {
 	  System.out.println("Hello World");
 	  //the test
 	  //other test
-	  //delete this
 	}
 }
